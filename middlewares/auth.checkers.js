@@ -1,4 +1,5 @@
 const models = require('../database/models')
+// const jwt = require('jsonwebtoken')
 
 
 class Checkers{
